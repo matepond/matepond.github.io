@@ -1,2 +1,1 @@
-# matepond.github.io
-Mate Pond Documents
+# Mate Pond Documents
